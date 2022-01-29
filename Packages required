@@ -1,0 +1,17 @@
+
+                                        Packages req for Data Science:
+
+
+Numpy: A third party allowing us to work with multidimentional arrays.
+
+Pandas: Allows us to organize data in a tabular form and to attach descriptive labels to the rows and columns.
+
+Matplotlib: A 2D plotting library specially designed for visualization of Numpy computations.
+
+Scipy: Python ecosystem containing a lot of tools for scientific calc.
+
+seaborn: It's a python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+
+StatsModels: A package built on top of Numpy and SciPy, which integrates with pandas. SM provides very good summaries.
+
+scikit-learn: sklearn is one of the most widely used machine learning libraries.
